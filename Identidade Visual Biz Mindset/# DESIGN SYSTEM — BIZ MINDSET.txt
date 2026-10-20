@@ -1,0 +1,398 @@
+# DESIGN SYSTEM — BIZ MINDSET
+
+## 01. ESSÊNCIA DA MARCA
+
+**Posicionamento:** Aceleração de negócios.
+
+**Conceitos:** Estratégia • Experiência • Inteligência • Conexão • Inovação • Execução • Resultado.
+
+**Personalidade visual:** Executiva, estratégica, moderna, objetiva, sofisticada e dinâmica.
+
+A identidade deve transmitir autoridade e inteligência de negócios, sem parecer uma consultoria tradicional ou uma empresa de tecnologia genérica.
+
+---
+
+## 02. PALETA DE CORES
+
+### CORES PRINCIPAIS
+
+**BIZ BLACK**
+#111111
+
+Uso: fundos escuros, títulos, textos, apresentações e elementos de destaque.
+
+**BIZ WHITE**
+#FFFFFF
+
+Uso: fundos, textos sobre fundos escuros e áreas de respiro.
+
+**BIZ YELLOW**
+#F7C022
+
+Uso: CTAs, destaques, palavras-chave, linhas, ícones, números e elementos de movimento.
+
+### CORES SECUNDÁRIAS
+
+**BIZ GRAY**
+#6B6B6B
+
+Uso: textos secundários, legendas e informações auxiliares.
+
+**BIZ LIGHT GRAY**
+#F3F3F1
+
+Uso: fundos secundários, cards, blocos e áreas de conteúdo.
+
+### PROPORÇÃO RECOMENDADA
+
+60% — Branco / fundos claros
+30% — Preto / cinza
+10% — Amarelo
+
+O preto deve funcionar como elemento de destaque, não como cor dominante.
+
+---
+
+## 03. TIPOGRAFIA
+
+### HEADLINES
+
+**Pogonia**
+
+Pesos:
+
+* 800 ExtraBold
+* 700 Bold
+* 600 SemiBold
+
+Uso: títulos, headlines, números e mensagens de impacto.
+
+### TEXTOS
+
+**Inter**
+
+Pesos:
+
+* 400 Regular
+* 500 Medium
+* 600 SemiBold
+* 700 Bold
+
+Uso: textos, descrições, legendas, menus e informações complementares.
+
+### HIERARQUIA
+
+Display: 64 px
+H1: 48 px
+H2: 36 px
+H3: 28 px
+H4: 22 px
+Body: 16–18 px
+Small: 14 px
+Caption: 12 px
+
+---
+
+## 04. GRID E ESPAÇAMENTO
+
+### GRID
+
+Desktop: 12 colunas
+Tablet: 8 colunas
+Mobile: 4 colunas
+
+### ESPAÇAMENTO
+
+Utilizar escala baseada em 8 px:
+
+4 • 8 • 16 • 24 • 32 • 48 • 64 • 80 • 96 • 128 px
+
+Priorizar consistência e espaços amplos.
+
+---
+
+## 05. BORDER RADIUS
+
+Small: 4 px
+Medium: 8 px
+Large: 12 px
+
+Preferência por cantos discretamente arredondados.
+
+Evitar excesso de elementos com aparência "pill".
+
+---
+
+## 06. BOTÕES
+
+### PRIMARY
+
+Fundo: #F7C022
+Texto: #111111
+
+**ACELERE SEU NEGÓCIO →**
+
+### SECONDARY
+
+Fundo: #111111
+Texto: #FFFFFF
+
+**CONHEÇA A BIZ →**
+
+### OUTLINE
+
+Fundo: transparente
+Borda: #111111
+Texto: #111111
+
+**SAIBA MAIS →**
+
+### ESTILO
+
+* Textos curtos
+* Verbos de ação
+* Preferência por caixa alta
+* Uso recorrente de "→"
+
+---
+
+## 07. ELEMENTOS GRÁFICOS
+
+A identidade deve utilizar elementos que representem:
+
+**Movimento + conexão + aceleração + estratégia.**
+
+Elementos principais:
+
+* Setas
+* Linhas
+* Conexões
+* Pontos
+* Grids
+* Números
+* Blocos geométricos
+* Diagramas
+* Mandalas
+
+### ELEMENTO PRINCIPAL
+
+A **seta →** representa aceleração, direção e evolução.
+
+As linhas e conexões representam o ecossistema e a experiência multidisciplinar da Biz.
+
+---
+
+## 08. ÍCONES
+
+Estilo:
+
+* Minimalista
+* Linear
+* Geométrico
+* Contemporâneo
+
+Stroke recomendado: 1,5–2 px.
+
+Evitar:
+
+* Ícones 3D
+* Ícones muito detalhados
+* Ilustrações excessivamente infantis
+* Emojis como elemento visual institucional
+
+---
+
+## 09. FOTOGRAFIA
+
+Priorizar imagens que transmitam:
+
+* Liderança
+* Estratégia
+* Negócios
+* Pessoas
+* Reuniões
+* Decisão
+* Tecnologia aplicada
+* Execução
+* Resultados
+
+### EVITAR
+
+* Fotos corporativas genéricas
+* Aperto de mãos
+* Executivos posando artificialmente
+* Bancos de imagem muito óbvios
+* Imagens excessivamente "tech"
+
+Preferir fotografia realista, sofisticada e contextualizada.
+
+---
+
+## 10. TRATAMENTO DE IMAGEM
+
+### FOTO LIMPA
+
+Uso em:
+
+* Site
+* Cases
+* Equipe
+* Institucional
+
+### FOTO + OVERLAY
+
+Imagem com overlay preto para utilização de headlines.
+
+### FOTO + ELEMENTOS BIZ
+
+Fotografia combinada com:
+
+* Linhas
+* Setas
+* Números
+* Grid
+* Amarelo #F7C022
+
+---
+
+## 11. CARDS
+
+### CARD CLARO
+
+Fundo: #F3F3F1
+Título: #111111
+Texto: #6B6B6B
+Destaque: #F7C022
+
+### CARD ESCURO
+
+Fundo: #111111
+Título: #FFFFFF
+Texto: #FFFFFF
+Destaque: #F7C022
+
+Cards devem ser simples, com bastante espaço interno e hierarquia clara.
+
+---
+
+## 12. NÚMEROS
+
+Números grandes são elementos importantes da identidade.
+
+Exemplo:
+
+**01**
+DIAGNÓSTICO
+
+**02**
+ESTRATÉGIA
+
+**03**
+EXECUÇÃO
+
+**04**
+RESULTADO
+
+Utilizar números em grande escala para criar impacto visual.
+
+---
+
+## 13. DATA VISUAL
+
+Gráficos e dados devem seguir a paleta Biz:
+
+#111111
+#FFFFFF
+#6B6B6B
+#F3F3F1
+#F7C022
+
+Evitar excesso de cores.
+
+Priorizar:
+
+* Mandalas interativias
+* Gráficos simples
+* Barras
+* Linhas
+* Indicadores
+* Percentuais
+* Comparações
+* Diagramas
+
+---
+
+## 14. LAYOUT
+
+A composição deve seguir cinco princípios:
+
+**01 — RESPIRO**
+Uso generoso de espaço negativo.
+
+**02 — HIERARQUIA**
+Uma mensagem principal por composição.
+
+**03 — CONTRASTE**
+Preto × branco × amarelo.
+
+**04 — MOVIMENTO**
+Setas, linhas e elementos direcionais.
+
+**05 — SIMPLICIDADE**
+Poucos elementos, maior impacto.
+
+---
+
+## 15. APRESENTAÇÕES
+
+### SLIDE DE ABERTURA
+
+Fundo preto
+Logo
+Headline grande
+Elemento amarelo
+Pouca informação
+
+### SLIDE DE CONTEÚDO
+
+Título preto
+Elemento amarelo
+Grid organizado
+Informações objetivas
+
+### SLIDE DE IMPACTO
+
+Fundo preto
+Número grande
+Headline curta
+Elemento amarelo
+
+### SLIDE DE PROCESSO
+
+Utilizar:
+
+01 → 02 → 03 → 04
+
+com linha contínua e destaques amarelos.
+
+---
+
+## 17. DIREÇÃO VISUAL
+
+A identidade da Biz deve sempre combinar:
+
+**ESTRATÉGIA**
++
+**INTELIGÊNCIA**
++
+**CONEXÃO**
++
+**MOVIMENTO**
++
+**EXECUÇÃO**
+
+### REGRA PRINCIPAL
+
+**Menos elementos. Mais impacto.**
+
+
